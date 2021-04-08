@@ -1,0 +1,10 @@
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\bin\Debug\Hotelaria.exe.config
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\bin\Debug\Hotelaria.exe
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\bin\Debug\Hotelaria.pdb
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.csprojAssemblyReference.cache
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.Form1.resources
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.Properties.Resources.resources
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.csproj.GenerateResource.cache
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.exe
+D:\Faculdade\3-Semestre\projeto de  interface do usuario\Hotelaria\Hotelaria\obj\Debug\Hotelaria.pdb

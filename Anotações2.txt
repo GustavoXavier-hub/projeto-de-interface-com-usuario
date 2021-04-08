@@ -1,0 +1,8 @@
+conjunto de  principios para  o projeto de interfaces do usuario
+
+1-deixar o usario no comando
+2-reduzir a carga de memoria do usuario
+3-tornar a interface consistente
+
+A ISO 9241-11 REQUISITOS ERGONÔMICOS PARA TRABALHO DE ESCRITÓRIOS COM COMPUTADOR
+A ISO 9241-11 esclarece os benefícios de medir a usabilidade em termos de desempenho e satisfação do usuário.
